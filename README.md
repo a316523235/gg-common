@@ -1,0 +1,2 @@
+# gg-common
+go base
