@@ -1,6 +1,8 @@
 package notify
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type Sms struct {}
 
